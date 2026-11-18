@@ -8,3 +8,6 @@ This project demonstrates shared work using Git branches and commits.
 - Project overview
 - Features
 - Usage instructions
+
+## Features
+- Organizes project information for readers
